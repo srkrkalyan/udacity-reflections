@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+The current directory will become git directory by creating a .git file init. To track changes that i am going to do, I need to create git repository
