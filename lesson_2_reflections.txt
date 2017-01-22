@@ -15,3 +15,6 @@ Very helpful ! seems its hard to understand the branching concept without diagra
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 new features/bug fixes developed in branch is now part of master which is production quality code. Diagram helps to visualize the parent structure of commits after merge operation
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+pros:reduces manual effort, cons: no cons
