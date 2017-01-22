@@ -12,3 +12,6 @@ when working in a team, i clone the repository. And for any change i need to mak
 
 How do the diagrams help you visualize the branch structure?
 Very helpful ! seems its hard to understand the branching concept without diagram, especially when a new branch created on very old commit instead of master (the latest commit)
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+new features/bug fixes developed in branch is now part of master which is production quality code. Diagram helps to visualize the parent structure of commits after merge operation
