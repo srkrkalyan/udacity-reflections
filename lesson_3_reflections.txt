@@ -11,3 +11,6 @@ branch - a branch can be created on any old commit from local repository
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 <need more understanding>
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Meetings
