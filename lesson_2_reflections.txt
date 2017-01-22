@@ -1,2 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 The current directory will become git directory by creating a .git file init. To track changes that i am going to do, I need to create git repository
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+staging area is b/w working directory and actual git repository, it add a lot of value in terms of selecting which files should be committed to git 
