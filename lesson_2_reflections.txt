@@ -9,3 +9,6 @@ git diff --staged helps to compare staging area and repository
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 when working in a team, i clone the repository. And for any change i need to make, i need to make either on master or create my own seperate branch. Branches helps to track changes which i dont intend to make on master
+
+How do the diagrams help you visualize the branch structure?
+Very helpful ! seems its hard to understand the branching concept without diagram, especially when a new branch created on very old commit instead of master (the latest commit)
