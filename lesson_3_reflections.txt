@@ -3,3 +3,8 @@ to share with other developers/programmers
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 i need to have control on pull,so i can work on some new features/bug fixes on older commits
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+fork - its like clone, but on github, this gets a clone of the repository into our github account
+clones - it gets a github repository into local, infact clones any remote repository to local
+branch - a branch can be created on any old commit from local repository
